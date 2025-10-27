@@ -1,7 +1,8 @@
-# 🌟 Power BI & Data Analytics Portfolio
+<img width="1186" height="669" alt="Screenshot 2025-10-10 185312" src="https://github.com/user-attachments/assets/ea002cbe-965c-4ef2-bbcf-d2edba208251" /># 🌟 Power BI & Data Analytics Portfolio
 
 Welcome to my Power BI portfolio!  
 This repository showcases a collection of my Power BI projects, built using real-world datasets and integrated with Python and SQL for data transformation. Each dashboard demonstrates my ability to turn data into actionable insights.
+<img width="1218" height="688" alt="image" src="https://github.com/user-attachments/assets/5376b628-1f2b-458c-85e3-3122c334aff2" />
 
 | Project | Description | Live Dashboard |
 |----------|--------------|----------------|
