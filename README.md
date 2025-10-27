@@ -2,13 +2,16 @@
 
 Welcome to my Power BI portfolio!  
 This repository showcases a collection of my Power BI projects, built using real-world datasets and integrated with Python and SQL for data transformation. Each dashboard demonstrates my ability to turn data into actionable insights.
+Sales Dashboard
 <img width="1218" height="688" alt="image" src="https://github.com/user-attachments/assets/5376b628-1f2b-458c-85e3-3122c334aff2" />
+AdventureWorks Report
+<img width="1196" height="678" alt="image" src="https://github.com/user-attachments/assets/102b80ef-1c96-4237-9c74-d0f37215ac2d" />
+
 
 | Project | Description | Live Dashboard |
 |----------|--------------|----------------|
 | Sales Dashboard | Sales trends, category insights | [View](https://github.com/niranjanranagcc/powerbi-data-analytics-portfolio/blob/main/Sales%20Dashboard.jpg) |
-| HR Analytics | Attrition & workforce KPIs | [View](https://app.powerbi.com/view?r=YYY) |
-| Customer Churn Prediction | Python model + Power BI visualization | [View](https://app.powerbi.com/view?r=ZZZ) |
+| AdventureWorks Report | Attrition & workforce KPIs | [View](https://app.powerbi.com/view?r=YYY) |
 
 
 ## 🔧 Tools & Technologies
