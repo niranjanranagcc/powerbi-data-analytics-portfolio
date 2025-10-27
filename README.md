@@ -1,8 +1,14 @@
-# Power BI Data Analytics Portfolio
+# 🌟 Power BI & Data Analytics Portfolio
 
+Welcome to my Power BI portfolio!  
 This repository showcases a collection of my Power BI projects, built using real-world datasets and integrated with Python and SQL for data transformation. Each dashboard demonstrates my ability to turn data into actionable insights.
 
----
+| Project | Description | Live Dashboard |
+|----------|--------------|----------------|
+| Sales Dashboard | Sales trends, category insights | [View](https://github.com/niranjanranagcc/powerbi-data-analytics-portfolio/blob/main/Sales%20Dashboard.jpg) |
+| HR Analytics | Attrition & workforce KPIs | [View](https://app.powerbi.com/view?r=YYY) |
+| Customer Churn Prediction | Python model + Power BI visualization | [View](https://app.powerbi.com/view?r=ZZZ) |
+
 
 ## 🔧 Tools & Technologies
 - Power BI (Data modeling, DAX, visuals)
