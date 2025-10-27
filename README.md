@@ -34,5 +34,6 @@ This repository showcases a collection of my Power BI projects, built using real
 **Niranjan Rana**  
 📍 Based in Dubai, UAE  
 🔗 https://www.linkedin.com/in/rananiranjan/
+
 📧 niranjanrana.gcc@gmail.com
 
