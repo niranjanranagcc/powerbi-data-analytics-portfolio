@@ -1,2 +1,38 @@
-# powerbi-data-analytics-portfolio
-Collection of Power BI dashboards and Python-powered analytics projects showcasing data modelling, DAX, and SQL integration for business insights.
+# Power BI Data Analytics Portfolio
+
+This repository showcases a collection of my Power BI projects, built using real-world datasets and integrated with Python and SQL for data transformation. Each dashboard demonstrates my ability to turn data into actionable insights.
+
+---
+
+## 🔧 Tools & Technologies
+- Power BI (Data modeling, DAX, visuals)
+- SQL (Data extraction & transformation)
+- Python (ETL, data cleaning, analysis)
+- Excel (Data validation)
+- GitHub (Version control)
+
+---
+
+## 📊 Projects Included
+1. Retail Sales Analysis Dashboard  
+2. HR Analytics Dashboard  
+3. Financial Performance Insights  
+4. Customer Churn Prediction  
+
+---
+
+## 🧩 Key Skills Demonstrated
+- DAX calculations and KPI design  
+- Interactive visuals with slicers & drill-through  
+- Data modeling & relationship optimization  
+- Storytelling with dashboards  
+- Automation using Python scripts  
+
+---
+
+## 📬 Contact
+**Niranjan Rana**  
+📍 Based in Dubai, UAE  
+🔗 https://www.linkedin.com/in/rananiranjan/
+📧 niranjanrana.gcc@gmail.com
+
